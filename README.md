@@ -1,2 +1,4 @@
 # Psychic-Game
-A terribly made game from a terribly made person
+
+
+https://jsceroler.github.io/Psychic-Game/
